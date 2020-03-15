@@ -1,0 +1,51 @@
+{
+    "series": [
+        {
+            "id": "5e642efc1ba845391f9e0644",
+            "name": "example series",
+            "description": "this is a description",
+            "banner": "http://api.example.com/files/series/5e642efc1ba845391f9e0644/banner.png",
+            "logo": "http://api.example.com/files/series/5e642efc1ba845391f9e0644/logo.png",
+            "sourceId": "5e60f2a434398a6a8b7687b8",
+            "status": "FINISHED",
+            "seasons": {
+                "1": [
+                    {
+                        "id": "5e643f605fc20239500cd154",
+                        "episodeNumber": 1,
+                        "name": "test episode name",
+                        "status": "UNAVAILABLE",
+                        "releaseDate": 1383628031
+                    },
+                    {
+                        "id": "5e642f0f1ba845391f9e0645",
+                        "episodeNumber": 2,
+                        "name": "test episode name",
+                        "status": "NO_SUBTITLES",
+                        "releaseDate": 1581128031
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5e64338c4b9a1b534807be17",
+            "name": "another example series",
+            "description": "this is also a description",
+            "banner": "http://api.example.com/files/series/5e64338c4b9a1b534807be17/banner.png",
+            "logo": null,
+            "sourceId": "5e60f2a434398a6a8b7687b8",
+            "status": "FINISHED",
+            "seasons": {
+                "1": [
+                    {
+                        "id": "5e643f645fc40229580cd154",
+                        "episodeNumber": 1,
+                        "name": "another episode name",
+                        "status": "AVAILABLE",
+                        "releaseDate": 1583622031
+                    }
+                ]
+            }
+        }
+    ]
+}
