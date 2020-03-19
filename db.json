@@ -57,6 +57,46 @@
                     "releaseDate": 1581128031
                 }
             ]
+        },
+        {
+            "id": "5e738263b4eeca96c91ebc20",
+            "name": "Dorohedoro",
+            "description": "Były żołnierz sił specjalnych, Alfred Pennyworth, pracuje w Londynie dla Thomasa, ojca Bruce'a Wayne'a.",
+            "banner": "",
+            "logo": "",
+            "sourceId": "",
+            "status": "FINISHED",
+            "episodes": []
+        },
+        {
+            "id": "5e73827eae4eb740b96dd3fa",
+            "name": "Beastars",
+            "description": "Były żołnierz sił specjalnych, Alfred Pennyworth, pracuje w Londynie dla Thomasa, ojca Bruce'a Wayne'a.",
+            "banner": "",
+            "logo": "",
+            "sourceId": "",
+            "status": "FINISHED",
+            "episodes": []
+        },
+        {
+            "id": "5e73828ecda7ea632a55e47b",
+            "name": "Co robimy w ukryciu?",
+            "description": "Były żołnierz sił specjalnych, Alfred Pennyworth, pracuje w Londynie dla Thomasa, ojca Bruce'a Wayne'a.",
+            "banner": "",
+            "logo": "",
+            "sourceId": "",
+            "status": "FINISHED",
+            "episodes": []
+        },
+        {
+            "id": "5e73829bc42763da4b992390",
+            "name": "Mandalorian",
+            "description": "Były żołnierz sił specjalnych, Alfred Pennyworth, pracuje w Londynie dla Thomasa, ojca Bruce'a Wayne'a.",
+            "banner": "",
+            "logo": "",
+            "sourceId": "",
+            "status": "FINISHED",
+            "episodes": []
         }
     ]
 }
