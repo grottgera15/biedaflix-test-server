@@ -99,29 +99,9 @@
             "episodes": []
         },
         {
-            "id": "5e73869619e1097bc1ed6a90",
-            "name": "Castlevania",
-            "description": "A vampire hunter fights to save a besieged city from an army of otherworldly creatures controlled by Dracula.",
-            "banner": "",
-            "logo": "",
-            "sourceId": "",
-            "status": "FINISHED",
-            "episodes": []
-        },
-        {
             "id": "5e7386935b2c7fca574f8fd4",
             "name": "See",
             "description": "Far in a dystopian future, the human race has lost the sense of sight, and society has had to find new ways to interact, build, hunt, and to survive.",
-            "banner": "",
-            "logo": "",
-            "sourceId": "",
-            "status": "FINISHED",
-            "episodes": []
-        },
-        {
-            "id": "5e73868cca3ef94f93e67b84",
-            "name": "Final Space",
-            "description": "An astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist.",
             "banner": "",
             "logo": "",
             "sourceId": "",
@@ -189,24 +169,6 @@
             "accepted": true
         },
         {
-            "id": "5e78ef054f7afc728c58d115",
-            "email": "ram@powazka.com",
-            "username": "Ram",
-            "avatar": "https://i.imgur.com/6OIpyeN.png",
-            "roles": [
-                {
-                    "id": "5e6181649d8fa7728873c68f",
-                    "name": "admin",
-                    "allowedOperations": [
-                        "ADMINISTRATE_SOURCES",
-                        "ADMINISTRATE_USERS",
-                        "ADMINISTRATE_SERIES"
-                    ]
-                }
-            ],
-            "accepted": true
-        },
-        {
             "id": "5e78ef0d973ff66b23b54ae6",
             "email": "leonz@powazka.com",
             "username": "Leonz",
@@ -223,24 +185,6 @@
                 }
             ],
             "accepted": false
-        },
-        {
-            "id": "5e78ef13097f0a6fb7d19f45",
-            "email": "Milo@powazka.com",
-            "username": "Milo",
-            "avatar": "https://i.imgur.com/4MT2sft.png",
-            "roles": [
-                {
-                    "id": "5e6181649d8fa7728873c68f",
-                    "name": "admin",
-                    "allowedOperations": [
-                        "ADMINISTRATE_SOURCES",
-                        "ADMINISTRATE_USERS",
-                        "ADMINISTRATE_SERIES"
-                    ]
-                }
-            ],
-            "accepted": true
         },
         {
             "id": "5e78f8540cff83c866212f04",
