@@ -154,9 +154,9 @@
     "users": [
         {
             "id": "5e78ef1ee268545d13d92d2a",
-            "email": "zommer128@gmail.com",
-            "username": "Bomer",
-            "avatar": "https://i.imgur.com/WLKEKSw.png",
+            "email": "kontakt@maksymilialakomy.pl",
+            "username": "Maklak",
+            "avatar": "https://i.imgur.com/lPyxtmi.jpg",
             "roles": [
                 {
                     "id": "5e6181649d8fa7728873c68f",
@@ -222,13 +222,85 @@
                     ]
                 }
             ],
-            "accepted": true
+            "accepted": false
         },
         {
             "id": "5e78ef13097f0a6fb7d19f45",
             "email": "Milo@powazka.com",
             "username": "Milo",
             "avatar": "https://i.imgur.com/4MT2sft.png",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78f8540cff83c866212f04",
+            "email": "Boladar@bwc.com",
+            "username": "Boladar",
+            "avatar": "https://i.imgur.com/kx94A87.jpg",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78f865007708973663d6c3",
+            "email": "blondboii@bwc.com",
+            "username": "Blondboi",
+            "avatar": "https://i.imgur.com/EsSIsyU.jpg",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78f86ac45170311cc3f685",
+            "email": "vulpez@bwc.com",
+            "username": "Vulpez",
+            "avatar": "https://i.imgur.com/FH6mKkP.jpg",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78f86e44c2156d6cd66955",
+            "email": "adamski@bwc.com",
+            "username": "Kuba",
+            "avatar": "https://i.imgur.com/uHu8RHl.jpg",
             "roles": [
                 {
                     "id": "5e6181649d8fa7728873c68f",
