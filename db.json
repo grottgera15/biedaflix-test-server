@@ -150,5 +150,97 @@
             "name": "HBO",
             "path": "https://i.imgur.com/yCvlK2K.png"
         }
+    ],
+    "users": [
+        {
+            "id": "5e78ef1ee268545d13d92d2a",
+            "email": "zommer128@gmail.com",
+            "username": "Bomer",
+            "avatar": "https://i.imgur.com/WLKEKSw.png",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78ef211841cb2324446225",
+            "email": "zaken@powazka.com",
+            "username": "ZakonKrwii",
+            "avatar": "https://i.imgur.com/aWl6rRM.png",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78ef054f7afc728c58d115",
+            "email": "ram@powazka.com",
+            "username": "Ram",
+            "avatar": "https://i.imgur.com/6OIpyeN.png",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78ef0d973ff66b23b54ae6",
+            "email": "leonz@powazka.com",
+            "username": "Leonz",
+            "avatar": "https://i.imgur.com/MdvfcPz.png",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        },
+        {
+            "id": "5e78ef13097f0a6fb7d19f45",
+            "email": "Milo@powazka.com",
+            "username": "Milo",
+            "avatar": "https://i.imgur.com/4MT2sft.png",
+            "roles": [
+                {
+                    "id": "5e6181649d8fa7728873c68f",
+                    "name": "admin",
+                    "allowedOperations": [
+                        "ADMINISTRATE_SOURCES",
+                        "ADMINISTRATE_USERS",
+                        "ADMINISTRATE_SERIES"
+                    ]
+                }
+            ],
+            "accepted": true
+        }
     ]
 }
