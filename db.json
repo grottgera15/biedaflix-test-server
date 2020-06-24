@@ -1,26 +1,6 @@
 {
     "series": [
         {
-            "id": "5e7278e3379b9609e3b7556f",
-            "name": "Pennyworth",
-            "description": "Były żołnierz sił specjalnych, Alfred Pennyworth, pracuje w Londynie dla Thomasa, ojca Bruce'a Wayne'a.",
-            "banner": "",
-            "logo": "",
-            "sourceId": "",
-            "status": "FINISHED",
-            "episodes": []
-        },
-        {
-            "id": "5e7279570d3e71f57155c405",
-            "name": "Godfather of Harlem",
-            "description": "Bumpy Johnson, szef mafii z Harlemu, po 10 latach spędzonych w więzieniu wychodzi na wolność i wypowiada wojnę włoskiej mafii, która przejęła jego terytorium.",
-            "banner": "",
-            "logo": "",
-            "sourceId": "",
-            "status": "FINISHED",
-            "episodes": []
-        },
-        {
             "id": "5e72795a86057db29102879e",
             "name": "Star Trek: Picard",
             "description": "W Star Trek: Picard Patrick Stewart powraca w roli Jean-Luca Picarda, którego grał przez siedem sezonów Star Trek: Pokolenia. W nowej serii zobaczymy kolejny rozdział życia tego ikonicznego bohatera.",
@@ -239,24 +219,25 @@
                 }
             ],
             "accepted": true
-        },
+        }
+    ],
+    "episodes": [
         {
-            "id": "5e78f86e44c2156d6cd66955",
-            "email": "adamski@bwc.com",
-            "username": "Kuba",
-            "avatar": "https://i.imgur.com/uHu8RHl.jpg",
-            "roles": [
-                {
-                    "id": "5e6181649d8fa7728873c68f",
-                    "name": "admin",
-                    "allowedOperations": [
-                        "ADMINISTRATE_SOURCES",
-                        "ADMINISTRATE_USERS",
-                        "ADMINISTRATE_SERIES"
-                    ]
-                }
-            ],
-            "accepted": true
+            "id": "5e727f461c8e10bd828f42a9",
+            "sourceId": "5e72795a86057db29102879e",
+            "name": "Wspomnienie",
+            "episodeNumber": 1,
+            "seasonNumber": 1,
+            "status": "AVAILABLE",
+            "releaseDate": 1581128031,
+            "videoSources": {
+                "1080": "http://api.example.com/files/series/5e642efc1ba845391f9e0644/5e642f0f1ba845391f9e0645/1080.mp4",
+                "720": "http://api.example.com/files/series/5e642efc1ba845391f9e0644/5e642f0f1ba845391f9e0645/720.mp4",
+                "480": "http://api.example.com/files/series/5e642efc1ba845391f9e0644/5e642f0f1ba845391f9e0645/480.mp4"
+            },
+            "subtitles": {
+                "PL": "http://api.example.com/files/series/5e642efc1ba845391f9e0644/5e642f0f1ba845391f9e0645/subPL.json"
+            }
         }
     ]
 }
